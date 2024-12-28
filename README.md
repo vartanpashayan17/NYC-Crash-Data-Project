@@ -4,6 +4,7 @@ Vehicle Collision Research Case Study This project explores motor vehicle collis
 
 
 DataSets: 
+
 https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data (download CSV)
 
 https://www.sciencedaily.com/releases/2022/03/220307131948.htm
